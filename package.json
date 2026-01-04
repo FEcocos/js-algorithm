@@ -1,0 +1,25 @@
+{
+  "name": "js-algorithm",
+  "version": "1.0.0",
+  "description": "JavaScript 코딩 테스트 연습 레포지토리",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage",
+    "test:ui": "vitest --ui"
+  },
+  "keywords": [
+    "algorithm",
+    "coding-test",
+    "javascript",
+    "data-structures"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^1.2.0",
+    "@vitest/ui": "^1.2.0"
+  }
+}
