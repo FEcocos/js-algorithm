@@ -1,5 +1,5 @@
 import { describe, test, expect } from "vitest";
-import { minOfThree } from "./min-of-three.js";
+import { minOfThree } from "./solution.js";
 
 describe("세 수 중 최솟값", () => {
   test("일반적인 경우 1", () => {
