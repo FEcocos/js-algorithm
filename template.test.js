@@ -1,5 +1,5 @@
 import { describe, test, expect } from "vitest";
-import { solution } from "./template.js";
+import { solution } from "./solution.js";
 
 describe("문제 제목", () => {
   test("테스트 케이스 1", () => {
