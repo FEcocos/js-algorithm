@@ -131,7 +131,8 @@ yarn test:watch
 - [x] 삼각형 판별하기 (triangle-check)
 
 ### Efficiency
-- [ ] 두 배열 합치기 (merge-two-arrays)
+- [x] 두 배열 합치기 (merge-two-arrays)
+- [ ] 공통원소 구하기 (common-elements)
 
 ## 📝 문제 출처
 
