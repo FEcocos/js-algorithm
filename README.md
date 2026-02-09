@@ -13,6 +13,10 @@ js-algorithm/
 │   └── triangle-check/     # 삼각형 판별하기
 │       ├── solution.js
 │       └── solution.test.js
+├── efficiency/             # 효율성 문제
+│   └── merge-two-arrays/   # 두 배열 합치기
+│       ├── solution.js
+│       └── solution.test.js
 ├── template.js             # 문제 풀이 템플릿
 ├── template.test.js        # 테스트 템플릿
 └── vitest.config.js        # 테스트 설정
@@ -123,8 +127,11 @@ yarn test:watch
 ## 📊 진행 상황
 
 ### Basic
-
 - [x] 세 수 중 최솟값 (min-of-three)
+- [x] 삼각형 판별하기 (triangle-check)
+
+### Efficiency
+- [ ] 두 배열 합치기 (merge-two-arrays)
 
 ## 📝 문제 출처
 

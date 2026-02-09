@@ -1,11 +1,5 @@
 import { describe, test, expect } from "vitest";
-import {
-  triangleCheck,
-  solution1,
-  solution2,
-  solution3,
-  solution4,
-} from "./solution.js";
+import { triangleCheck, solution1, solution2 } from "./solution.js";
 
 const solutions = [
   { name: "Solution 1 (직접 비교)", fn: solution1 },
