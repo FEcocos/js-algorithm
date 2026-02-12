@@ -12,5 +12,6 @@
 | 폴더명 | 문제명 | 난이도 | 시간복잡도 | 완료 |
 |--------|--------|--------|------------|------|
 | merge-two-arrays | 두 배열 합치기 | Easy | O(n+m) | ✅ |
-| common-elements | 공통원소 구하기 | Easy | O(n+m) | ⬜ |
+| common-elements | 공통원소 구하기 | Easy | O(n+m) | ✅ |
+| consecutive-subsequence | 연속 부분수열 1 | Medium | O(n) | ⬜ |
 
