@@ -132,7 +132,8 @@ yarn test:watch
 
 ### Efficiency
 - [x] 두 배열 합치기 (merge-two-arrays)
-- [ ] 공통원소 구하기 (common-elements)
+- [x] 공통원소 구하기 (common-elements)
+- [ ] 연속 부분수열 1 (consecutive-subsequence)
 
 ## 📝 문제 출처
 
